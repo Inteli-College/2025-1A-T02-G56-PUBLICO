@@ -11,7 +11,10 @@
 
 ## About this repository
 
-This repository holds the final report for the developed work of group 56 of class T02 (2025/1A) throughout the 1A module. The public report can be found [here](./public-report/public-report-m1.md).
+This repository holds the final reports for the developed work of group 56 of class T02 (2025/1A) throughout the 1A and 1B modules. The public reports can be found here:
+
+- [Module 13 public report](public-report-module-13/public-report-m1.md)
+- [Module 14 public report](public-report-module-14/public-report-m1.md)
 
 ## Contact
 
