@@ -2,7 +2,7 @@
 <br>
 
 <p align="center">
-  <img src="img/inteli-logo.png" alt="Protótipo de baixa fidelidade - tela inicial" width="300">
+  <img src="../img/inteli-logo.png" alt="Protótipo de baixa fidelidade - tela inicial" width="300">
 </p>
 <h4 align="center">Giovana Lisbôa Thomé <br> Computer Science <br> Class of 2025 <br> 2025-1A-T02-G56</h4>
 
