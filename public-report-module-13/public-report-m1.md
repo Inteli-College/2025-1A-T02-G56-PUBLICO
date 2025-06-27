@@ -38,7 +38,7 @@ By integrating with platforms users already engage with daily, such as WhatsApp,
 
 ## 3. Artifacts
 
-At the beginning of the module, a backlog was created to guide the work over the 10-week period. However, as is often the case, the need for replanning emerged along the way. The following sections outline the discrepancies between the initial plan and the actual deliverables, along with brief descriptions of each artifact produced.
+At the beginning of the module, a backlog was created to guide the work over the 10-week period. However, as is often the case, the need for replanning emerged along the way. The following section describes a brief descriptions of each artifact produced.
 
 ### 3.2. Developed artifacts
 
